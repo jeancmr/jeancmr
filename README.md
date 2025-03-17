@@ -24,9 +24,9 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 
 [![](https://visitcount.itsvg.in/api?id=jeancmr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
+### :zap: Recent Activity 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
-<!--END_SECTION:activity-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
