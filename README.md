@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-My name is Jean<br>I'm a software developer focused on frontend development<br>I live in Colombia
+My name is Jean<br>I'm a software developer focused on frontend development<br>I'm from Colombia
 
 ## 🌐 Socials:
 
