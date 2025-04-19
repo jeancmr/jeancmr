@@ -27,13 +27,13 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 ### :zap: Recent Activity 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [jeancmr/mi-licencia-app](https://github.com/jeancmr/mi-licencia-app)<br>
-2. ⬆️ Pushed 1 commit(s) to [jeancmr/nave-a-la-deriva-2-ts](https://github.com/jeancmr/nave-a-la-deriva-2-ts)<br>
-3. 📔 Created new repository [jeancmr/nave-a-la-deriva-2-ts](https://github.com/jeancmr/nave-a-la-deriva-2-ts)<br>
-4. 📔 Created new repository [jeancmr/mi-licencia-app](https://github.com/jeancmr/mi-licencia-app)<br>
-5. 📔 Created new repository [jeancmr/mi-licencia-backend](https://github.com/jeancmr/mi-licencia-backend)<br>
+2. ⬆️ Pushed 1 commit(s) to [jeancmr/mi-licencia-app](https://github.com/jeancmr/mi-licencia-app)<br>
+3. ⬆️ Pushed 1 commit(s) to [jeancmr/nave-a-la-deriva-2-ts](https://github.com/jeancmr/nave-a-la-deriva-2-ts)<br>
+4. 📔 Created new repository [jeancmr/nave-a-la-deriva-2-ts](https://github.com/jeancmr/nave-a-la-deriva-2-ts)<br>
+5. 📔 Created new repository [jeancmr/mi-licencia-app](https://github.com/jeancmr/mi-licencia-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 18th, 2025, 1:16:17 PM
+Last Updated: Saturday, April 19th, 2025, 1:49:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
