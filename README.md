@@ -26,14 +26,14 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 
 ### :zap: Recent Activity 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jeancmr/portfolio-react](https://github.com/jeancmr/portfolio-react)<br>
-2. ⬆️ Pushed undefined commit(s) to [jeancmr/portfolio-react](https://github.com/jeancmr/portfolio-react)<br>
-3. ⬆️ Pushed undefined commit(s) to [jeancmr/portfolio-react](https://github.com/jeancmr/portfolio-react)<br>
+1. ⬆️ Pushed undefined commit(s) to [jeancmr/frontend-test-logika](https://github.com/jeancmr/frontend-test-logika)<br>
+2. ⬆️ Pushed undefined commit(s) to [jeancmr/frontend-test-logika](https://github.com/jeancmr/frontend-test-logika)<br>
+3. ⬆️ Pushed undefined commit(s) to [jeancmr/frontend-test-logika](https://github.com/jeancmr/frontend-test-logika)<br>
 4. ⬆️ Pushed undefined commit(s) to [jeancmr/portfolio-react](https://github.com/jeancmr/portfolio-react)<br>
 5. ⬆️ Pushed undefined commit(s) to [jeancmr/portfolio-react](https://github.com/jeancmr/portfolio-react)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 29th, 2025, 1:43:27 PM
+Last Updated: Tuesday, December 30th, 2025, 2:08:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
