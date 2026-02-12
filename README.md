@@ -26,14 +26,14 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 
 ### :zap: Recent Activity 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jeancmr/teslo-shop-frontend](https://github.com/jeancmr/teslo-shop-frontend)<br>
-2. ⬆️ Pushed undefined commit(s) to [jeancmr/portfolio-v2](https://github.com/jeancmr/portfolio-v2)<br>
-3. ⬆️ Pushed undefined commit(s) to [jeancmr/portfolio-v2](https://github.com/jeancmr/portfolio-v2)<br>
-4. ⬆️ Pushed undefined commit(s) to [jeancmr/mi-licencia-app](https://github.com/jeancmr/mi-licencia-app)<br>
-5. ⬆️ Pushed undefined commit(s) to [jeancmr/mi-licencia-app](https://github.com/jeancmr/mi-licencia-app)<br>
+1. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-backend](https://github.com/jeancmr/lead-track-backend)<br>
+2. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-backend](https://github.com/jeancmr/lead-track-backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-backend](https://github.com/jeancmr/lead-track-backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-backend](https://github.com/jeancmr/lead-track-backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-backend](https://github.com/jeancmr/lead-track-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 11th, 2026, 1:25:54 PM
+Last Updated: Thursday, February 12th, 2026, 2:51:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
