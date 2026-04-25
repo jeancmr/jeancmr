@@ -27,12 +27,9 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 ### :zap: Recent Activity 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-backend](https://github.com/jeancmr/lead-track-backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-frontend](https://github.com/jeancmr/lead-track-frontend)<br>
-3. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-backend](https://github.com/jeancmr/lead-track-backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [jeancmr/lead-track-frontend](https://github.com/jeancmr/lead-track-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 25th, 2026, 3:17:28 AM
+Last Updated: Saturday, April 25th, 2026, 1:19:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
