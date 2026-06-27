@@ -26,12 +26,9 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 
 ### :zap: Recent Activity 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jeancmr/notes-app-react](https://github.com/jeancmr/notes-app-react)<br>
-2. ⬆️ Pushed undefined commit(s) to [jeancmr/notes-app-nest](https://github.com/jeancmr/notes-app-nest)<br>
-3. ⬆️ Pushed undefined commit(s) to [jeancmr/notes-app-nest](https://github.com/jeancmr/notes-app-nest)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 27th, 2026, 4:03:02 AM
+Last Updated: Saturday, June 27th, 2026, 1:56:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
