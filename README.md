@@ -28,12 +28,12 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
 2. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
-3. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
-4. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-backend](https://github.com/jeancmr/gcv-backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-backend](https://github.com/jeancmr/gcv-backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
 5. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 1st, 2026, 4:39:31 AM
+Last Updated: Wednesday, July 1st, 2026, 2:49:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
