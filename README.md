@@ -30,10 +30,10 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 2. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
 3. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
 4. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-backend](https://github.com/jeancmr/gcv-backend)<br>
-5. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-backend](https://github.com/jeancmr/gcv-backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [jeancmr/gcv-frontend](https://github.com/jeancmr/gcv-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 30th, 2026, 2:32:29 PM
+Last Updated: Wednesday, July 1st, 2026, 4:39:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
