@@ -26,10 +26,13 @@ My name is Jean<br>I'm a software developer focused on frontend development<br>I
 
 ### :zap: Recent Activity 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jeancmr/events-management-api](https://github.com/jeancmr/events-management-api)<br>
+1. ⬆️ Pushed undefined commit(s) to [jeancmr/library-management-api](https://github.com/jeancmr/library-management-api)<br>
+2. ⬆️ Pushed undefined commit(s) to [jeancmr/library-management-api](https://github.com/jeancmr/library-management-api)<br>
+3. ⬆️ Pushed undefined commit(s) to [jeancmr/library-management-api](https://github.com/jeancmr/library-management-api)<br>
+4. ⬆️ Pushed undefined commit(s) to [jeancmr/events-management-api](https://github.com/jeancmr/events-management-api)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 31st, 2026, 2:22:41 PM
+Last Updated: Saturday, August 1st, 2026, 3:33:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
